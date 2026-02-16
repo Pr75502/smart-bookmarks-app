@@ -2,6 +2,7 @@
 
 A full-stack bookmark management application built using Next.js (App Router) and Supabase.
 The app allows users to securely authenticate with Google, manage personal bookmarks, and see real-time updates across multiple tabs.
+site Link :-  https://smart-bookmarks-app-indol.vercel.app/
 
 ✨ Features
 
@@ -65,7 +66,7 @@ Managing client-side routing in Next.js App Router
 Implementing and cleaning up realtime subscriptions properly
 
 📦 Installation
-git clone <your-repo-url>
+git clone <https://github.com/Pr75502/smart-bookmarks-app>
 cd smart-bookmark-app
 npm install
 npm run dev
